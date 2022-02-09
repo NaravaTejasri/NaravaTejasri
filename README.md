@@ -1,6 +1,13 @@
 <img src="https://user-images.githubusercontent.com/31222514/151182722-0ea6238e-411a-467b-abdf-5e24781515cd.png" width="0" height="0" alt="profile picture">
 
 # Junior Full stack Developer
+### About me
+Originally from India with a year of experience in the IT industry. My passion is to become a programmer to solve real-life problems.
+
+I'm a fresh graduated from Codaisseur academy where I've learned the most up to date technologies.
+I feel comfortable building full stack apps.
+
+I'm an energetic, passionate and creative. 
 
 ### 🔥 passion 
 
