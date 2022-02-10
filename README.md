@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/31222514/151182722-0ea6238e-411a-467b-abdf-5e24781515cd.png" width="0" height="0" alt="profile picture">
 
 # Junior Full stack Developer
 ### About me
+<img src="https://i.pinimg.com/originals/49/27/84/4927849d453932ff05aba4fe7a06dd12.gif" width="100" height="100" alt="hello">
 Originally from India with a year of experience in the IT industry. My passion is to become a programmer to solve real-life problems.
 
 I'm a fresh graduated from Codaisseur academy where I've learned the most up to date technologies.
