@@ -1,13 +1,13 @@
 
-# Junior Full stack Developer
+# Full stack Developer
 ### About me
 <img src="https://i.pinimg.com/originals/49/27/84/4927849d453932ff05aba4fe7a06dd12.gif" width="100" height="100" alt="hello">
 Originally from India with a year of experience in the IT industry. My passion is to become a programmer to solve real-life problems.
 
-I'm a fresh graduated from Codaisseur academy where I've learned the most up to date technologies.
-I feel comfortable building full stack apps.
+I'm a fresh graduate from Codaisseur Academy where I've learned the most up-to-date technologies.
+I feel comfortable building full-stack apps.
 
-I'm an energetic, passionate and creative. 
+I'm energetic, passionate, and creative. 
 
 ### 🔥 passion 
 
@@ -24,7 +24,7 @@ I'm an energetic, passionate and creative.
 - Languages: Javascript (& HTML & CSS)
 - Frontend Libraries: React, Redux
 - Backend: Node & Express
-- Databases: PostgreSql
+- Databases: PostgreSQL
 - Version control: GIT
 
 <p align="center">
